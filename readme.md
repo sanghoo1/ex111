@@ -2,14 +2,9 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# html의 정의 #
 
-    Markup :  # Heading 1 #
-
-    -OR-
-
-    Markup :  ============= (below H1 text)
-
+    HTML (Hypertext Markup Language)은 웹 페이지와 그 내용을 구조화하기 위해 사용하는 코드입니다.
 ## Heading 2 ##
 
     Markup :  ## Heading 2 ##
