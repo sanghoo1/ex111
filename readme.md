@@ -2,6 +2,9 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
+### 웹 표준 ###
+
+    브라우저 종류 및 버전에 따른 기능 차이에 대하여 호환이 가능하도록 제시된 표준
 # html의 정의 #
 
     HTML (Hypertext Markup Language)은 웹 페이지와 그 내용을 구조화하기 위해 사용하는 코드입니다.
@@ -23,9 +26,7 @@ html 문서 최상단에 작성>
 </body>
 </html>
 
-### Heading 3 ###
 
-    Markup :  ### Heading 3 ###
 
 #### Heading 4 ####
 
