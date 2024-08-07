@@ -17,7 +17,7 @@ Markdown Cheatsheet<a name="TOP"></a>
     HTML (Hypertext Markup Language)은 웹 페이지와 그 내용을 구조화하기 위해 사용하는 코드입니다.
 ## html의 기본 구조 ##
 
-   <!DOCTYPE html>
+  ** <!DOCTYPE html>
 <html lang="en">
 <DTD 선언: 브라우저에게 웹문서의 종류를 알려주는선언 브라우저의 호환성과 웹 표준을 위해 반드시 작성
 html 문서 최상단에 작성>
@@ -32,7 +32,7 @@ html 문서 최상단에 작성>
     2. 브라우저에서 사용자에게 실제 보여지는 부분
 </body>
 </html>
-
+**
 
 
 #### Heading 4 ####
